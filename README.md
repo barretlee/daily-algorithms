@@ -8,6 +8,8 @@
 
 白天出题，尽量晚上给出参考答案。
 
+### 仓库结构
+
 讨论列表：<https://github.com/barretlee/daily-algorithms/issues>，每天的题目 & 参考答案，会记录在本仓库。
 
 - `/questions`，算法题，主要来自 leetcode；
